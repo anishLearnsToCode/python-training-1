@@ -84,6 +84,15 @@ You can stalk your instructor on
 | [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-named-tuple.py) |
 | [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 
+## [Day 3](day_3)
+### Topics Covered 
+
+## [Day 4](day_4)
+### Topics Covered
+
+## [Day 5](day_5)
+### Topics Covered
+
 ## Sample Python Projects
 - [Hangman Game (CLI)](https://github.com/anishLearnsToCode/hangman-cli-game)
 - [Alien Invasion 👾 (GUI)](https://github.com/anishLearnsToCode/alien-invasion)
