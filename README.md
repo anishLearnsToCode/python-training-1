@@ -5,7 +5,7 @@
 
 <details>
     <summary><b>Workshop Timings</b></summary>
-    Workshop Dates: 8th, 11th, 12th, 13th & 14th January 2021 <br>
+    Workshop Dates: 8th, 12th, 14th, 16th and 18th January 2021 <br>
     Workshop Timings: 3:00 PM - 8:00 PM (15 - 20) <br>
     Break Timings: 5:00 PM - 6:00 PM (17 - 18)
 </details>
@@ -100,6 +100,7 @@ You can stalk your instructor on
 ## Practice Questions
 1. [Hello World Problems]()
 1. [Pattern Questions]()
+1. [Loop Questions]()
 1. [Lists Problems]()
 1. [Dictionary Questions]()
 1. [String Questions]()
