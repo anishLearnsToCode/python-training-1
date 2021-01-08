@@ -51,6 +51,27 @@ You can stalk your instructor on
 ## [Day 1](day_1)
 
 ### Topics Covered
+- [Print Function](day_1/print_funtion.py)
+- [Comments](day_1/comments.py)
+- [Strings](day_1/strings.py)
+- [Variables](day_1/variables.py)
+- [Variable Naming Rules](day_1/variable_rules.py)
+- [Variable Name Conventions](day_1/variable_name_conventions.py)
+- [Taking User Input](day_1/taking_user_input.py)
+- [Taking Integer Input](day_1/int_input.py)
+- [Arithmetic Operators](day_1/arithmetic_operators.py)
+- [Boolean Operators](day_1/boolean_operators.py)
+- [If Else Statements](day_1/if_else_statements.py)
+- [Odd Even Using If/Else](day_1/odd_even.py)
+- [Ternary If Condition](day_1/ternary_if_condition.py)
+- [Hackerrank If Else Question](day_1/hackerrank_if_else.py)
+- [While Loop](day_1/while_loop.py)
+- [While Loop Basics](day_1/while_loop.py)
+- [Sum N Natural Numbers (While Loop)](day_1/sum_n_natural_numbers.py)
+- [Sum of Squares (While Loop)](day_1/sum_squares.py)
+- [Factorial (While Loop)](day_1/factorial_while.py)
+- [Range Object](day_1/range_object.py)
+- [For Loop](day_1/for_loop.py)
 
 ### Sample Questions
 | Question | Solution Link |
