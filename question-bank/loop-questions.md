@@ -4,7 +4,7 @@
 
 ```txt
 WAP = Write a Program
-😡😡 Thank you Cardi B for ruining programming for me!
+Thank you Cardi B for ruining programming for me! 😢😞😞
 ```
 
 | Number | Question | Solution Link |

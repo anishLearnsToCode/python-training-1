@@ -4,7 +4,7 @@
 
 ```txt
 WAP = Write a Program
-😡😡 Thank you Cardi B for ruining programming for me!
+Thank you Cardi B for ruining programming for me! 😢😞
 ```
 
 <details>
@@ -68,6 +68,7 @@ rows = 4
 <details>
     <summary>Question 5</summary>
     WAP to print the following pattern. User enters <code>rows</code>.
+    <a href="../solution-bank/pattern/solution_5.py">[See Solution]</a>
 <pre>
     *
    * *
