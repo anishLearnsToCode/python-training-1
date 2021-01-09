@@ -122,6 +122,7 @@ You can stalk your instructor on
 1. [Hello World Problems]()
 1. [Pattern Questions]()
 1. [Loop Questions](question-bank/loop-questions.md)
+1. [Implementation Problems]()
 1. [Lists Problems]()
 1. [Dictionary Questions]()
 1. [String Questions]()
