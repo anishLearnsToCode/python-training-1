@@ -55,7 +55,7 @@ rows = 4
 <details>
     <summary>Question 4</summary>
     WAP to print the following pattern. User enters <code>rows</code>.
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern4.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_4.py">[See Solution]</a>
 <pre>
 * * * * *
  * * * *
