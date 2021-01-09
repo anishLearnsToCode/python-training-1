@@ -119,11 +119,11 @@ You can stalk your instructor on
 - [Alien Invasion 👾 (GUI)](https://github.com/anishLearnsToCode/alien-invasion)
 
 ## Practice Questions
-1. [Hello World Problems]()
+1. [Hello World Questions]()
 1. [Pattern Questions]()
 1. [Loop Questions](question-bank/loop-questions.md)
-1. [Implementation Problems]()
-1. [Lists Problems]()
+1. [Implementation Questions]()
+1. [Lists Questions]()
 1. [Dictionary Questions]()
 1. [String Questions]()
 
