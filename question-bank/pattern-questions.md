@@ -10,7 +10,7 @@ WAP = Write a Program
 <details>
     <summary>Question 1</summary>
     WAP to a print the following pattern. User enters <code>rows</code> 
-    <a href="solution-bank/pattern/solution_1.py">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_1.py">[See Solution]</a>
 <pre>
 rows = 4
 ********
