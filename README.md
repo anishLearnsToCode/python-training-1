@@ -121,9 +121,9 @@ You can stalk your instructor on
 
 ## Practice Questions
 1. [Hello World Questions]()
-1. [Pattern Questions]()
+1. [Pattern Questions](question-bank/pattern-questions.md)
 1. [Loop Questions](question-bank/loop-questions.md)
-1. [Implementation Questions]()
+1. [Implementation Questions](question-bank/implementation-questions.md)
 1. [Lists Questions]()
 1. [Dictionary Questions]()
 1. [String Questions]()
