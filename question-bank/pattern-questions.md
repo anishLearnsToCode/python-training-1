@@ -166,7 +166,7 @@ A B C D C B A
     <summary>Question 12</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
     <a href="../solution-bank/pattern/solution_12.py">[See Solution]</a> 
-    For `rows = 3` we have: 
+    For <code>rows = 3</code> we have: 
 <pre>
    *
   * *
@@ -197,7 +197,8 @@ A B C D C B A
 <details>
     <summary>Question 14</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="../solution-bank/pattern/solution_14.py">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_14.py">[See Solution]</a> <br>
+    In case of <code>rows = 7</code> we get:
 <pre>
 *
 **
@@ -280,7 +281,7 @@ For <code>rows = 2</code>
     <summary>Question 17</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
     <a href="../solution-bank/pattern/solution_17.py">[See Solution]</a>
-For <code>rows = 4</code>
+For <code>rows = 3</code>
 <pre>
 1
 2*3
