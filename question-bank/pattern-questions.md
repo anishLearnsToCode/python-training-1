@@ -83,7 +83,7 @@ rows = 5
 <details>
     <summary>Question 6</summary>
     WAP to print the following pattern. User enters <code>rows</code>.
-    <a href="../solution-bank/pattern/solution_5.py">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_6.py">[See Solution]</a>
 <pre>
 rows = 5
     *
@@ -97,7 +97,7 @@ rows = 5
 <details>
     <summary>Question 7</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern7.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_7.py">[See Solution]</a>
 <pre>
 1
 1 2
@@ -110,7 +110,7 @@ rows = 5
 <details>
     <summary>Question 8</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern8.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_8.py">[See Solution]</a>
 <pre>
 1 2 3 4 5
 1 2 3 4
@@ -123,7 +123,7 @@ rows = 5
 <details>
     <summary>Question 9</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern9.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_9.py">[See Solution]</a>
 <pre>
 1
 1 2
@@ -137,7 +137,7 @@ rows = 5
 <details>
     <summary>Question 10</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern10.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_10.py">[See Solution]</a>
 <pre>
 A
 A B A
@@ -149,7 +149,7 @@ A B C D C B A
 <details>
     <summary>Question 11</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern11.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_11.py">[See Solution]</a>
 <pre>
 ********1********
 *******2*2*******
@@ -165,7 +165,8 @@ A B C D C B A
 <details>
     <summary>Question 12</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern12.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_12.py">[See Solution]</a> 
+    For `rows = 3` we have: 
 <pre>
    *
   * *
@@ -178,7 +179,8 @@ A B C D C B A
 <details>
     <summary>Question 13</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern13.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_13.py">[See Solution]</a>
+    For <code>rows = 5</code> we have:
 <pre>
     *
    * *
@@ -195,7 +197,7 @@ A B C D C B A
 <details>
     <summary>Question 14</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern14.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_14.py">[See Solution]</a>
 <pre>
 *
 **
@@ -218,7 +220,7 @@ In case <code>rows = 4</code>
 <details>
     <summary>Question 15</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern15.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_15.py">[See Solution]</a>
 For <code>rows = 3</code>
 <pre>
 3
@@ -258,7 +260,7 @@ For <code>rows = 5</code>
 <details>
     <summary>Question 16</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern16.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_16.py">[See Solution]</a>
 For <code>rows = 4</code>
 <pre>
 1
@@ -277,7 +279,7 @@ For <code>rows = 2</code>
 <details>
     <summary>Question 17</summary>
     WAP to print the following pattern. User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern17.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_17.py">[See Solution]</a>
 For <code>rows = 4</code>
 <pre>
 1
@@ -304,7 +306,7 @@ If <code>rows = 4</code>
 <details>
     <summary>Question 18</summary>
     WAP to print the following pattern (Pascal's Triangle). User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern18.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_18.py">[See Solution]</a>
 For <code>rows = 5</code>
 <pre>
 1
@@ -327,7 +329,7 @@ The pattern is derived in the pascal's triangle using values in the previous row
 <details>
     <summary>Question 19</summary>
     WAP to print the following pattern (Hollow Rhombus). User enters <code>rows</code>.  
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
+    <a href="../solution-bank/pattern/solution_19.py">[See Solution]</a>
 For <code>rows = 3</code>
 <pre>
 ******
@@ -356,7 +358,7 @@ For <code>rows = 5</code>
 <details>
     <summary>Question 20</summary>
     <p>WAP to print the following pattern (Butterfly pattern)
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern19.java">[See Solution]</a></p>
+    <a href="../solution-bank/pattern/solution_20.py">[See Solution]</a></p>
     <p>For <code>rows = 3</code></p>
 <pre>
 *    *
