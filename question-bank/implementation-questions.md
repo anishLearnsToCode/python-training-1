@@ -4,12 +4,10 @@
 
 ```txt
 WAP = Write a Program
-I hate 😡😡 Cardi B
+Thank you Cardi B for ruining programming for me! 😢😞
 ```
 
 | Number | Question | Solution Link |
 |:------:|:---------|:-------------:|
-| 1 | Write a program to calculate HCF of Two given number. | [Solution]() |
-| 1 | | [Solution]() |
-| 1 | | [Solution]() |
-| 1 | | [Solution]() |
+| 1 | WAP to calculate HCF of Two given number. | [Solution]() |
+| 2 | [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/WriteAFunction.py) |

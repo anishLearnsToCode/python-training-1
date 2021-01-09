@@ -7,7 +7,7 @@
     <summary><b>Workshop Timings</b></summary>
     Workshop Dates: 8th, 12th, 14th, 16th and 18th January 2021 <br>
     Workshop Timings: 3:00 PM - 8:00 PM (15 - 20) <br>
-    Break Timings: 5:00 PM - 6:00 PM (17 - 18)
+    Break Timings: 5:00 PM - 6:00 PM (17 - 18)  
 </details>
 
 📺 [Workshop Link (Zoom)](https://us02web.zoom.us/j/81830187054?pwd=YmREWmFlbjhFZkZ4aFREemZZTjUvQT09) |
@@ -74,37 +74,9 @@ You can stalk your instructor on
 - [Range Object](day_1/range_object.py)
 - [For Loop](day_1/for_loop.py)
 
-### Sample Questions
-| Question | Solution Link |
-|:---------|:--------:|
-| [Say "Hello World" With Python](https://www.hackerrank.com/challenges/py-hello-world)| [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/SayHelloWorldWithPython.py) |
-| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PythonIfElse.py) |
-| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/ArithmeticOperator.py) |
-| [Python Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Division.py) |
-| [Loops](https://www.hackerrank.com/challenges/python-loops) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/Loops.py)|
-| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/ListComprehension.py) |
-| [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/FindTheRunnerUpScore.py) |
-| [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/nested-lists.py) |
-| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/finding-the-percentage.py) |
-| [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/Lists.py) |
-| [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/basic-data-types/tuples.py) |
-| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/swap-case.py) |
-| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
-| [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
-
 ## [Day 2](day_2)
 
 ### Topics Covered
-
-### Sample Questions
-| Question | Solution Link |
-|:---------|:--------:|
-| [Write a Function](https://www.hackerrank.com/challenges/write-a-function) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/WriteAFunction.py) |
-| [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/introduction/PrintFunction.py) |
-| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-counter.py) |
-| [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/default-dict-tutorial.py) |
-| [Collections.namedTuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-named-tuple.py) |
-| [Collections.orderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/collections/collections-ordered-dict.py) |
 
 ## [Day 3](day_3)
 ### Topics Covered 
@@ -120,13 +92,14 @@ You can stalk your instructor on
 - [Alien Invasion 👾 (GUI)](https://github.com/anishLearnsToCode/alien-invasion)
 
 ## Practice Questions
-1. [Hello World Questions]()
+1. [Hello World Questions](question-bank/hello-world-questions.md)
 1. [Pattern Questions](question-bank/pattern-questions.md)
 1. [Loop Questions](question-bank/loop-questions.md)
 1. [Implementation Questions](question-bank/implementation-questions.md)
-1. [Lists Questions]()
-1. [Dictionary Questions]()
-1. [String Questions]()
+1. [Lists Questions](question-bank/lists-questions.md)
+1. [Dictionary Questions](question-bank/dictionary-questions.md)
+1. [String Questions](question-bank/string-questions.md)
+1. [In-Built Python Data Types Questions](question-bank/inbuilt-python-data-types.md)
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
