@@ -23,6 +23,7 @@
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Sample Projects](#sample-python-projects)
+- [Practice Questions](#practice-questions)
 - [Further Reading](#further-reading)
 - [Python Books](#python-books-)
 - [Future Path??](#future-scope-and-path)
