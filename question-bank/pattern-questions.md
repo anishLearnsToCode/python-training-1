@@ -9,13 +9,14 @@ WAP = Write a Program
 
 <details>
     <summary>Question 1</summary>
-    WAP (Write a program) to a print the following pattern. User enters <code>rows</code> 
-    <a href="https://github.com/anishLearnsToCode/java-wac-batch-32/blob/master/src/patterns/Pattern1.java">[See Solution]</a>
+    WAP to a print the following pattern. User enters <code>rows</code> 
+    <a href="solution-bank/pattern/solution_1.py">[See Solution]</a>
 <pre>
+rows = 4
 ********
 ***  ***
 **    **
-*      *    <br>        
+*      *        
 *      *
 **    **
 ***  ***
