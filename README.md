@@ -50,8 +50,6 @@ You can stalk your instructor on
 [Instagram](https://www.instagram.com/anish.sachdeva_/).
 
 ## [Day 1](day_1)
-
-### Topics Covered
 - [Print Function](day_1/print_funtion.py)
 - [Comments](day_1/comments.py)
 - [Strings](day_1/strings.py)
@@ -76,16 +74,11 @@ You can stalk your instructor on
 
 ## [Day 2](day_2)
 
-### Topics Covered
-
-## [Day 3](day_3)
-### Topics Covered 
+## [Day 3](day_3) 
 
 ## [Day 4](day_4)
-### Topics Covered
 
 ## [Day 5](day_5)
-### Topics Covered
 
 ## Sample Python Projects
 - [Hangman Game (CLI)](https://github.com/anishLearnsToCode/hangman-cli-game)
