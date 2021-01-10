@@ -5,7 +5,7 @@
 
 <details>
     <summary><b>Workshop Timings</b></summary>
-    Workshop Dates: 8th, 12th, 14th, 16th and 18th January 2021 <br>
+    Workshop Dates: 8th, 12th, 14th, 16th and 17th January 2021 <br>
     Workshop Timings: 3:00 PM - 8:00 PM (15 - 20) <br>
     Break Timings: 5:00 PM - 6:00 PM (17 - 18)  
 </details>

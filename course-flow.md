@@ -61,6 +61,10 @@
 1. The Math Package
 1. The Random Package
 
+## Error Handling
+1. Try/Except Block
+1. Try/Except/Else/Finally Block
+
 ## Capstone Project
 1. [Hangman CLI Game](https://github.com/anishLearnsToCode/hangman-cli-game) 
 1. [Alien Invasion GUI Game](https://github.com/anishLearnsToCode/alien-invasion)
