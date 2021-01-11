@@ -10,7 +10,6 @@
     Break Timings: 5:00 PM - 6:00 PM (17 - 18)  
 </details>
 
-📺 [Workshop Link (Zoom)](https://us02web.zoom.us/j/81830187054?pwd=YmREWmFlbjhFZkZ4aFREemZZTjUvQT09) |
 📽 [Class Recordings](https://photos.app.goo.gl/YZL9s4qTz1a68agk8) |
 🌊 [Course Flow](course-flow.md)
 
