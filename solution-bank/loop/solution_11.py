@@ -3,11 +3,6 @@ WAP to enter the numbers till the user wants and at the end the program should d
 largest and smallest numbers entered.
 """
 
-"""
-WAP to enter the numbers till the user wants and at the end it should display the count of positive,
-negative and zeros entered.
-"""
-
 infinity = float('inf')
 smallest = infinity
 largest = -infinity
