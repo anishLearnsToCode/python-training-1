@@ -6,12 +6,20 @@ def function_name(parameter_1, parameter_2, parameter_3 ...):
 """
 
 
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
 def hello() -> None:
     print('hello!')
     # return None
 
 
 # parameters
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
 def full_name(first_name: str, last_name: str, middle_name=None) -> str:
     if middle_name is None:
         return f'{first_name} {last_name}'
@@ -19,10 +27,18 @@ def full_name(first_name: str, last_name: str, middle_name=None) -> str:
     return f'{first_name} {middle_name} {last_name}'
 
 
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
 def sum_numbers(a: int, b: int) -> int:
     return a + b
 
 
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
 def multiple(k):
     return k, 10
 

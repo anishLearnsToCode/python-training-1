@@ -115,8 +115,25 @@ You can stalk your instructor on
 - [Dictionary](day_3/dictionary.py)
 
 ## [Day 4](day_4)
+- [Tuples](day_4/tuple.py)
+- [Dictionary](day_4/dictionary.py)
+- [Complex Dictionary](day_4/complex_dict.py)
+- [Iterating Over Dictionary](day_4/dict_iterable.py)
+- [Frequency Counter](day_4/frquency_counter.py)
+- [Finding The Percentage (HackerRank)](day_4/finding_the_percentage.py)
+- [Instagram Profile Picture Loader (External Package)](day_4/instagram_profile_picture_loader.py)
+- [The `math` Package](day_4/math_package.py)
+- [The `random` Package](day_4/random_package.py)
+- [Number Theory (Custom Package)](day_4/number_theory.py)
+- [Try Catch](day_4/try_catch.py)
 
 ## [Day 5](day_5)
+- [Time Complexity](day_5/time_complexity.py)
+- [Object Oriented Programming (OOPs) in Python](day_5/class_methods.py)
+- [The Point class](day_5/Point.py)
+- [Opening File in Python](day_5/open_file.py)
+- [YouTube Video Installer](day_5/youtube_installer.py)
+- [YouTube Video Installer Functions](day_5/youtube_functions.py)
 
 ## Sample Python Projects
 - [Hangman Game (CLI)](https://github.com/anishLearnsToCode/hangman-cli-game)

@@ -11,6 +11,11 @@ List
 - len() can be used on any iterable
 """
 
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
 numbers = [2, 3, 5, 7, 11, 13, 17, 19, 23]
 print(numbers)
 print(type(numbers))

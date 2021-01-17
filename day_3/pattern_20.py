@@ -30,6 +30,11 @@ spaces: 2i
 stars: n - i
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 for i in range(n):

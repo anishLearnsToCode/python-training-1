@@ -1,3 +1,11 @@
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+"""
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 def sum_n_natural_numbers(n: int) -> int:
     """"n: 1 + 2 + 3 + ... + n"""
     result = 0

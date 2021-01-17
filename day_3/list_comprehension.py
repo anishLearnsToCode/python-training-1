@@ -8,10 +8,18 @@
 # print(type(numbers))
 # print(numbers)
 
-letters = [ord(character) for character in 'hello world']
+"""
+Time Complexity: O(n)
+Space Complexity: O(n)
+n = len(string)
+"""
+
+string = input()
+
+letters = [ord(character) for character in string]
 print(letters)
 
 letters = []
-for character in 'hello world':
+for character in string:
     letters.append(ord(character))
 print(letters)

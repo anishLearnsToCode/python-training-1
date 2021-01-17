@@ -1,5 +1,10 @@
 import random
 
+"""
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
 game_list = ["Rock", "Paper", "Scissors"]
 computer = c = 0
 command = p = 0

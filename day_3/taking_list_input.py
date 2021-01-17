@@ -3,6 +3,11 @@
 [1, 2, 3, 4, 100, -90, 45]
 """
 
+"""
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
 numbers = input()
 numbers = numbers.split()
 print(numbers)

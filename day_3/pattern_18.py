@@ -33,7 +33,7 @@ combination nCr
 """
 """
 Time Complexity: O(n^3)
-Space Complexity: O()
+Space Complexity: O(1)
 """
 
 n = int(input())

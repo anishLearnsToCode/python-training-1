@@ -8,8 +8,13 @@ passage: this is amazing this is so awesome i am really enjoying learning python
 }
 """
 
+"""
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+
 passage = input()
-words = passage.split()
+words = passage.split()     # O(n)
 frequency = {}
 
 for word in words:
