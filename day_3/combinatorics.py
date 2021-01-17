@@ -1,3 +1,7 @@
+"""
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 def factorial(n: int) -> int:
     result = 1
     for i in range(1, n + 1):
@@ -5,6 +9,10 @@ def factorial(n: int) -> int:
     return result
 
 
+"""
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 def permutation(n: int, r: int) -> int:
     """nPr: n! / (n - r)!"""
     return factorial(n) // factorial(n - r)
@@ -15,6 +23,10 @@ def permutation(n: int, r: int) -> int:
     # return 12
 
 
+"""
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
 def combination(n: int, r: int) -> int:
     """nCr = nPr / r! """
     return permutation(n, r) // factorial(r)

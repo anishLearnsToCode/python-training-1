@@ -1,4 +1,9 @@
 """
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
+"""
 for item in iterable_object:
     code (item)
 

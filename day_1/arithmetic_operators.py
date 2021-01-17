@@ -1,3 +1,9 @@
+"""
+5 * print + 2 * =
+Time: O(1)
+Space: O(2 * int = O(k) = O(1)
+"""
+
 a = 10
 b = 3
 
@@ -15,7 +21,7 @@ print(a * b)
 # division (--> float)
 print(a / b)
 
-# integral division (a // b = floor(a / b)) -> int
+# floor division (a // b = floor(a / b)) -> int
 print(a // b)
 
 # power operator (a ^ b)

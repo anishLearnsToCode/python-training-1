@@ -1,4 +1,9 @@
 """
+Time Complexity: O(n)
+Space Complexity: O(1)
+"""
+
+"""
 n: 1^2  + 2^2  + 3^2 + ... + n^2
 """
 

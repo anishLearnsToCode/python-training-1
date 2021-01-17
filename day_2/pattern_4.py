@@ -16,11 +16,19 @@ n n-1 n-2 .. n-n
 5 4 3 2 1 0 -1 -2
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
-for i in range(n):
+for i in range(n):          # n O(n^2)
+    # iteration: O(n)
     # spaces
+    # O(i)
     print(' ' * i, end='')
 
     # stars
+    # O(n - i)
     print('* ' * (n - i))

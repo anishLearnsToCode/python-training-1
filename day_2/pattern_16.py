@@ -21,6 +21,11 @@ n = int(input())
 #     print()
 
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 for i in range(n):
     for j in range(i + 1):
         print(i * (i + 1) // 2 + 1 + j, end=' ')

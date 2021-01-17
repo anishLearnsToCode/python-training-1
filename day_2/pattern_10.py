@@ -23,9 +23,15 @@ i = 3
 s : 3 2 1
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 for i in range(n):
+    # [1 + 2 + 3 + ... n] + [0 + 1 + 2 + 3 + ... + (n - 1)] = O(n^2) + O(n^2) = O(n^2)
     # increasing sequence
     for j in range(i + 1):
         print(j + 1, end=' ')

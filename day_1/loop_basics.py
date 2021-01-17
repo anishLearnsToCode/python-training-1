@@ -1,3 +1,8 @@
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
 i = 0
 while i < 4:
     j = 0

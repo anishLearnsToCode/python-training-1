@@ -26,6 +26,11 @@ spaces f(n, i) = 2n - 2 - 2i
 stars = f(i) = i + 1
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 for i in range(n):

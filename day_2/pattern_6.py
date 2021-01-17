@@ -36,10 +36,17 @@ s : -1 1 3 5
 star: n
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O()
+"""
+
 n = int(input())
 
 # main pattern
-for i in range(n - 1):
+for i in range(n - 1):          # [n + (n - 1) + (n - 2) + (n - 3) + 3 + 2 + 1] + [0 + 1 + 3 + 5 + 7 + .. + 2n - 1] = n(n + 1) / 2 + n^2 = O(n^2)
+    # n + (n + 1) + (n + 2) + .. (2n - 1) + 2n = s(2n) - s(n) 4n^2 - n^2 = 3n^2 = O(n^2)
+    # n - 1 - i + 2i - 1 = n + i
     # spaces
     print(' ' * (n - 1 - i), end='')
 

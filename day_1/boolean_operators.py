@@ -1,5 +1,10 @@
-a = 10
-b = 3
+"""
+Time Complexity: O(k4) = O(1)
+Space Complexity: O(1)
+"""
+
+a = 10      # k1
+b = 3       # k1
 
 # equality operator
 # print(a == b)
@@ -29,4 +34,4 @@ b = 3
 # print(True and True)         # True
 
 # not operator --> negation / opposite
-print(not False)
+print(not False) # k2 + k3

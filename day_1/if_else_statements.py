@@ -1,4 +1,9 @@
 """
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
+"""
 if else statements
 if condition_1:
     code

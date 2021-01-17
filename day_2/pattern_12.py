@@ -18,9 +18,15 @@ n
 n - 1
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 # upper triangle
+# O(n^2)
 for i in range(n):
     # spaces
     print(end=' ' * (n - i))
@@ -29,6 +35,7 @@ for i in range(n):
     print('* ' * (i + 1))
 
 # lower triangle
+# O(n^2)
 for i in range(n - 1):
     # spaces
     print(end=' ' * (i + 2))

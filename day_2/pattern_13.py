@@ -26,6 +26,11 @@ spaces(n - 2) = 2(n - 2) - 1 = 2n - 5
 # star: 1 except for last
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 # upper triangle

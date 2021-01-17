@@ -18,6 +18,11 @@ i : 0 1 2 3 4
 s : 1 2 3 4 5
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 for i in range(n):

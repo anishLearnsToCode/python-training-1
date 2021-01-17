@@ -30,6 +30,11 @@
 #     if i == 5:
 #         break
 
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
 for i in range(4):
 
     for j in range(2):

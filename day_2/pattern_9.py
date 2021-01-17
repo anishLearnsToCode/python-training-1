@@ -25,10 +25,16 @@ f(i) = i + 1
 1 2 3 4 5 6
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 # main pattern
 for i in range(n - 1):
+    # 0 + 0 + 1 + 2 + 3 + 4 + 5 + .. (n - 2) = (n - 1)(n - 2)/ 2 = O(n^2)
     # 1
     print(end='1 ')
 

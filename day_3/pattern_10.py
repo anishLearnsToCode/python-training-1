@@ -19,6 +19,11 @@ s(3): C B A
 v(i, j) = A + i - 1 - j
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 
 n = int(input())
 

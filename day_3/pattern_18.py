@@ -31,11 +31,16 @@ combination nCr
 4C3 = 4
 4C4 = 1
 """
-
+"""
+Time Complexity: O(n^3)
+Space Complexity: O()
+"""
 
 n = int(input())
 
-for i in range(n):
+for i in range(n):          # 1^2 + 2^2 + 3^2 + ... + n^2 = O(n^3)
+    # time complexity: O(i^2)
     for j in range(i + 1):
+        # time complexity: O(i)
         print(end=f'{combination(i, j)} ')
     print()

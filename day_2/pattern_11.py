@@ -19,9 +19,15 @@ i : 0 1 2 3 4 5 6 7
 s : 7 6 5 4 3 2 1 0
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 
 for i in range(n):
+    # 2n - i [2n + (2n - 1) + (2n - 2) + (2n - 3) + ... 2n] = O(n^2)
     # stars
     print(end='*' * (n - i))
 

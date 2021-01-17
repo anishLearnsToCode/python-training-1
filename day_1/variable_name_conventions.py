@@ -1,3 +1,8 @@
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
 # camel case (C++ / C / Java / Python - variable names)
 # helloWorld
 # anishLearnsToCode

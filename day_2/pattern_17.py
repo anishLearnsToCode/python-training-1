@@ -40,6 +40,11 @@ s(n) = 1 + 2 + 3 + 4 + ... + n = n(n + 1) / 2
      = n (n + 1) / 2
 """
 
+"""
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+"""
+
 n = int(input())
 k = 1
 

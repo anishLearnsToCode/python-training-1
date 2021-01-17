@@ -1,3 +1,8 @@
+"""
+Time Complexity: O(1)
+Space Complexity: O(1)
+"""
+
 print('hello world', end=' ** ')
 print('this is amazing!!!')
 print('i am on top of the world')
